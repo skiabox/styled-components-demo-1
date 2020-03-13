@@ -1,3 +1,7 @@
+Basic demonstration of the styled-components library inside a react application.
+For more information on the styled-components librery go here : https://styled-components.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
